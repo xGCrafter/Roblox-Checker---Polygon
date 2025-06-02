@@ -1,0 +1,35 @@
+# Polygon Software License Agreement
+
+Effective Date: 2nd June 2025
+
+## 1. Grant of License
+This License Agreement ("Agreement") grants you, the end user ("Licensee"), a non-transferable, non-exclusive, revocable license to use the software product Polygon Roblox Checker provided by gcrafter70003 ("Licensor") in accordance with the terms set forth below.
+
+## 2. License Key
+Use of the Software requires a valid license key issued by the Licensor. License keys are granted per-user or per-device basis and may not be shared, resold, or transferred without express written permission from the Licensor.
+
+## 3. Restrictions
+- You may not distribute, crack, copy, or lend the Software.
+- You may not reverse engineer, decompile, or disassemble the Software.
+- You may not modify or create derivative works of the Software.
+- You may not remove or obscure any proprietary notices on the Software.
+
+## 4. Ownership
+All rights, title, and interest in and to the Software (including all intellectual property rights) remain with the Licensor. This license does not grant you any ownership rights in the Software.
+
+## 5. No Warranty
+The Software is provided "as is" without warranty of any kind, express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose.
+
+## 6. Limitation of Liability
+In no event shall the Licensor be liable for any direct, indirect, incidental, or consequential damages arising out of the use or inability to use the Software, even if advised of the possibility of such damages.
+
+## 7. Termination
+This license is effective until terminated. It will terminate automatically without notice if you fail to comply with any of its terms. Upon termination, you must destroy all copies of the Software in your possession.
+
+## 8. Contact
+For questions about this license, please contact:  
+Polygon
+Discord: gcrafter70003
+Website: polyweb.pages.dev
+
+---
